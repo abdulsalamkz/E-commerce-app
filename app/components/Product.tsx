@@ -37,7 +37,7 @@ const GET_DATA = gql(`
                 media {
                   URLs {
                     small
-                    large 
+                    large
                   }
                 }
               }
