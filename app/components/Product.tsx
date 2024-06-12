@@ -165,7 +165,7 @@ const ProductList = () => {
                       {node.product.pricing.displayPrice}
                     </p>
                   </div>  
-              </Link>
+              </Link> 
             ))}
           </div>
         )}
